@@ -1,0 +1,4 @@
+Iteration 100
+Cooperator 50
+Defector 25
+PartialCooperator 25
